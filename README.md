@@ -18,7 +18,7 @@ handles it for you. Simple and easy.
 A couple weeks ago I formated the wrong usb thumb drive after migrating my whole
 system from Windows to Linux. All my documents were lost. All my code was lost.
 Fortunately most of the stuff that mattered was already stored in cloud space.
-This got me thinking, so I decided to upload all my code to git from now. The
+This got me thinking, so I decided to upload all my code to git from now on. The
 whole codebase. This lead to trying to push a repository which had repositories
 inside it, which introduced me to git submodules - a great feature of git, 
 specially for large projects, which neither I nor anyone I've asked about
