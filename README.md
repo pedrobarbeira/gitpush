@@ -68,7 +68,7 @@ future features bellow:
 - gitpush -l message :: allows for messages above 80 characters long
 - change default push to current branch instead of main/master
   
- Again, simplicity is key. Gitpush will aim for different degrees of exposition 
+ Simplicity is key. Gitpush will aim for different degrees of exposition 
  of the git API. The point is figuring out the most common usages of Git and
  automating them for a more fluid utilization. Each of these commands can be
  easily extended - for example, the gitpush -c command can be extended to allow
