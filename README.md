@@ -76,7 +76,7 @@ future features bellow:
  automatically clone said the url remote, the whole tool can be extended to 
  handle multiple remotes in the same repository at once, etc. Ideas start flowing
  once you start thinking about them, just ask yourself "how can I make using git
- easier for me?", and there you are!
+ easier for me?" and there you are!
 
   
   
