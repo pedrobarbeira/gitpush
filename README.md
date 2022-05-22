@@ -53,7 +53,7 @@ Gitpush is at a very early stage of it's development. It's basically a fetus.
 Maybe even an embryo. Right now all it does it adding all your files, commiting
 them - defaults to system date if no user message (80char max) is specified -
 and pushing them to origin master. All this means is that the seed has been 
-planted and now it's time to water and nurter it. You can find the planned
+planted and now it's time to water and nurture it. You can find the planned
 future features bellow:
 
 
