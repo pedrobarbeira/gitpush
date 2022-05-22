@@ -90,5 +90,5 @@ will be welcome. Cheers!
 ### LICENSES ###
 Gitpush uses the GPL3.0 license. 
 
-@Contributors:
+### @Contributors: ####
 - pedrobarbeira
