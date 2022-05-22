@@ -21,7 +21,7 @@ Fortunately most of the stuff that mattered was already stored in cloud space.
 This got me thinking, so I decided to upload all my code to git from now on. The
 whole codebase. This lead to trying to push a repository which had repositories
 inside it, which introduced me to git submodules - a great feature of git, 
-specially for large projects, which neither I nor anyone I've asked about
+specially for large projects, which neither me nor anyone I've asked about
 knew of. Unfortunately, pushing a repository with submodules adds up to
 very verbose code. Something like "git push --recurse-submodules=on-demand
 origin master". A very long line to type every time a push was required.
