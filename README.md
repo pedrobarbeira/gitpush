@@ -72,9 +72,11 @@ future features bellow:
  of the git API. The point is figuring out the most common usages of Git and
  automating them for a more fluid utilization. Each of these commands can be
  easily extended - for example, the gitpush -c command can be extended to allow
- user to name his remote and master/main branch however he desires, the whole 
- tool can be extended to handle multiple remotes in the same repository at
- once, etc. 
+ user to name his remote and master/main branch however he desires, and/or also
+ automatically clone said the url remote, the whole tool can be extended to 
+ handle multiple remotes in the same repository at once, etc. Ideas start flowing
+ once you start thinking about them, just ask yourself "how can I make using git
+ easier for me?", and there you are!
 
   
   
