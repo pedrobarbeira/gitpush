@@ -65,7 +65,8 @@ future features bellow:
   remote url to url. 
 - gitpush -b branch optional_message :: pushes to branch <branch> with either
   an user-defined message or the system date(default)
-  gitpush -l message :: allows for messages above 80 characters long
+- gitpush -l message :: allows for messages above 80 characters long
+- change default push to current branch instead of main/master
   
  Again, simplicity is key. Gitpush will aim for different degrees of exposition 
  of the git API. The point is figuring out the most common usages of Git and
