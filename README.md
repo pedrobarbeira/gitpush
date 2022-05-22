@@ -60,12 +60,12 @@ future features bellow:
 
 @FUTURE FEATURES:
 - Cross-platform support
-- gitpush -a <filename>... :: only commits files specified in the argument list
-- gitpush -c <url> :: automatically initializes a repository and sets it's
+- gitpush -a filename... :: only commits files specified in the argument list
+- gitpush -c url :: automatically initializes a repository and sets it's
   remote url to url. 
-- gitpush -b <branch> <optional_message> :: pushes to branch <branch> with either
+- gitpush -b branch optional_message :: pushes to branch <branch> with either
   an user-defined message or the system date(default)
-  gitpush -l <message> :: allows for messages above 80 characters
+  gitpush -l message :: allows for messages above 80 characters long
   
  Again, simplicity is key. Gitpush will aim for different degrees of exposition 
  of the git API. The point is figuring out the most common usages of Git and
