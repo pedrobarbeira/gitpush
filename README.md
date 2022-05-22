@@ -39,7 +39,7 @@ Git as a tool has several years of development on it's shoulders. There certainl
 are more interesting features like git submodules that can make our life much
 easier and our coding experience much richer. The kind of stuff we don't even
 know we need - at least that was what submodules were for me. Through this project
-we get a chance to dive deeper then the usual add-commit-push cycle, and applying
+we get a chance to dive deeper then the usual add-commit-push cycle, and to apply
 that knowledge to make a tool that facilitates using git both for ourselves and
 everyone that bumps into it. Ideas tend to present themselves once we start 
 getting our hands busy, so picking up something simple is always a good place 
