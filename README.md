@@ -83,7 +83,9 @@ future features bellow:
 ### HOW TO CONTRIBUTE ###
 If the project speaks to you in any way, feel free to contact me either through
 git or through pedro.barbeira95@gmail.com - be sure to use [GITPUSH] at the 
-start of the subject.
+start of the subject. Anything from constructive criticism and feedback, both
+about the app and the code itself; to feature ideas; to integrating the project
+will be welcome. Cheers!
 
 ### LICENSES ###
 Gitpush uses the GPL3.0 license. 
